@@ -2,7 +2,6 @@ Here is the updated **README.md** file, now including the precise **Environment 
 
 ---
 
-```markdown
 # The Algorithmic AI Border: Geopolitics & LLMs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -37,7 +36,6 @@ This research interrogates the "universal" pretensions of Artificial Intelligenc
 │   └── genetic_architecture.png   # Methodology diagram
 └── README.md
 
-```
 
 ---
 
