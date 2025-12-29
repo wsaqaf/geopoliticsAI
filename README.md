@@ -9,7 +9,7 @@ Here is the updated **README.md** file, now including the precise **Environment 
 [![Ollama](https://img.shields.io/badge/Ollama-v0.11.10-orange.svg)](https://ollama.com/)
 
 **Official Code & Data Repository**
-*Book Chapter: "The Algorithmic AI Border: Large Language Models as Geopoliticized Media Spheres in the Israel-Palestine Conflict"*
+*Book Chapter: "The Palestine-Israel Conflict in AI Code: How Regional Fine-Tuning Writes Geopolitical Allegiance into LLMs"*
 *(Forthcoming in: Geopolitics and Media: Theory of Post-Globalizing Communication)*
 
 ---
