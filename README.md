@@ -151,6 +151,11 @@ The script will output the mean polarization scores per Zone and the statistical
 
 ---
 
+## Dashboard
+
+You can access the dashboard with simple charts and filters [HERE](https://al-saqaf.se/geobook/).
+
+---
 ## 📝 Citation
 
 If you use this dataset or code in your research, please cite the book chapter:
@@ -173,7 +178,7 @@ For questions regarding the methodology or dataset:
 
 * **Author:** Walid Al-Saqaf
 * **Affiliation:** Doha Institute for Graduate Studies
-* **Email:** walid.alsaqaf@dohainstitute.edu.qa
+* **Email:** walid.alsaqaf[at]dohainstitute.edu.qa
 
 ```
 
